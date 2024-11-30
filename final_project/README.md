@@ -3,6 +3,9 @@
 #### Video Demo
 https://youtu.be/VXLiQUHrdoY?si=r8RT33VF6XaKe6-J
 
+https://github.com/user-attachments/assets/4a37ed6e-67da-40bc-ac88-5bc1e251de66
+
+
 #### Description
 
 Top Places is a Python script that uses Google Maps API to search the top places in a certain area based on ratings
